@@ -1,5 +1,6 @@
 package org.example;
 
+//Ejemplo para crear una nueva rama.
 import io.javalin.Javalin;
 import io.javalin.plugin.bundled.CorsPluginConfig;
 import org.example.di.AppModule;
